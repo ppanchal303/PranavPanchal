@@ -1282,15 +1282,15 @@ a.image {
   .image2.fit {
     display: block;
     margin: 0 0 2em 0;
-    width: 100%; }
+    width: 50%; }
     .image2.fit img {
-      width: 100%; }
+      width: 50%; }
   .image2.main {
     display: block;
     margin: 0 0 3em 0;
-    width: 100%; }
+    width: 50%; }
     .image2.main img {
-      width: 100%; }
+      width: 50%; }
 
 a.image2 {
   overflow: hidden; }
