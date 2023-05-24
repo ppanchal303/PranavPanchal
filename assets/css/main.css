@@ -24,11 +24,11 @@ section, summary, time, mark, audio, video {
   vertical-align: baseline; }
 
 :root {
-  --bg_color: #2A252C;  
-  --sidebar_bg_color: #352E38;  
-  --heading_text_color: #F4F9E9;
-  --normal_text_color: #D8D9D3;
-  --accent_color: #E63946;
+  --bg_color: #202020;  
+  --sidebar_bg_color: #282828;  
+  --heading_text_color: #e1f1f4;
+  --normal_text_color: #e1f1f4;
+  --accent_color: #ffbe0a;
 }
 
 article, aside, details, figcaption, figure,
